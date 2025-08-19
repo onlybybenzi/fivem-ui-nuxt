@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* minimal CSS to ensure a CSS bundle is emitted */
+:root {
+  --app-ready: 1;
+}
+
